@@ -1,0 +1,26 @@
+{
+  "name": "Lora Malone",
+  "age": 19,
+  "address": {
+    "street": "Noede Boulevard",
+    "city": "Hivewa",
+    "state": "OH",
+    "zip": "00442"
+  },
+  "contact": {
+    "phone": "(405) 290-1041",
+    "servicePhone": "800491852"
+  },
+  "birthday": "1978-09-24T05:25:47.746Z",
+  "ip": "124.137.112.86",
+  "foo": "bar",
+  "profile": {
+    "about": "At tu fi kawro punuches dopuf pafe bu du neeva boczuh ki dur ekevagub jegipce cofba mifet. Wobrumin cecuvu sefdewik ra sanzejva zadu vojazboj gu hozsi wanzofire wul rucevo. Ir luzkubi ca iwewab jozo ki ses tir ribub led nu ofafokip ugow acawikpep. Pudassaw nop gi bocof dokaoza bohvol naw ze neweav iki mo telos. Gukki petenju me mo jalulo ahnoza getotunoz ologuf nucfuruh arasecav ireto pe zetlos.",
+    "bio": "Fizwiklem dahgivpa pejliz is pu suku ojapeda hajiz sius bi anmagi loataja pavko zafukopi ma areme ocute. Obtardo ke perjid wac rejnecige luw hi vuw josa am tujrob sumefu febivja fe gonozuwa. Eh zeti salisaen bowvettij be wif lifav afko meclijuza om ol enisa potsun zoze ocoviwa sovrab. Wawer hebule ermunuf gelkacfo os avwi belu es ni cuz woumuile faofopo dija rocon jabke ricovu agnifur ecuvigu. Soz duawfi pu cokvaeb munzehbi radbuj co dobu maawoob ehemegco puto sehuwi ugbiuv wul."
+  },
+  "apiKey": "ba776c61c85766570e05d46a24fee447300c843253d14d11e5826d4e692774e8",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
