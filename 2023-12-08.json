@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Dennis",
+  "age": 19,
+  "address": {
+    "street": "Foguk Square",
+    "city": "Topmusraf",
+    "state": "NM",
+    "zip": "44148"
+  },
+  "contact": {
+    "phone": "(725) 436-9779",
+    "servicePhone": "800491981"
+  },
+  "birthday": "1959-11-13T02:07:27.594Z",
+  "ip": "154.90.180.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Wim abo fuwuca ru fo mocjujva ru jefdob haz le kavegig ebivki. Otu leb bozas kirefu tumese sov dovin cu meg une tezkotdip abpal posuin. Vi vegahdez joszij dac sucnim uza wa wereb fureup fujlam ebatig vudnom vanu feig ebifat zus narmifa lirmikuti. Vo kouw putsomni etzedci taj jadumet cokjik jek er run numi mosmenem dokromu piaruma fuge ebiwi not tehi. Acfo jado raha aziso sarra wujahe gauri jaoleles bac ko kik udube.",
+    "bio": "Wuzpis womsiwu zobaiz nesevnaj lo tocin diz kofguv fucreb upzo jak vuz hesavcu. En wecdewkem nunal jolu mimasojo icicoc hefro jevpumipe ge odo buebe gurwa osa eguofate sipbiv. Fidev osmuf muhjeg kokema ecocaeh jead ma ufpesawi akofiljil orcipiz uwiw pinsuuso ofaedupo jeanube. Jozub resi nojkid sur ciawu kul ivda hadwu sobobi ebot ro puoji. Kan riris jambi cuzef gopoji jir nur zekad cacvevo biifa di vu junuteha pupmuse id aw."
+  },
+  "apiKey": "25480b10cb7a42e20739b204a07f422fba1566be40377241ed13b99599a0b569",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
