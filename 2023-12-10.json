@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Andrews",
+  "age": 25,
+  "address": {
+    "street": "Tomif View",
+    "city": "Puvajgin",
+    "state": "AR",
+    "zip": "37263"
+  },
+  "contact": {
+    "phone": "(766) 467-1890",
+    "servicePhone": "800626754"
+  },
+  "birthday": "2003-08-11T07:53:38.309Z",
+  "ip": "28.221.10.202",
+  "foo": "bar",
+  "profile": {
+    "about": "El hatmeh jub hocdezcej tu evozewoc li cew nefe zusroz wamnu jonutovi dijetano. Ej vicav sit jucuc cupowsi ulupapici wi izaziiz mak mumawug wewi agaovisa ac pen. Dehef wugaze ped vavockuf abu mebokjow iw uk sirtod ridteji cimsega fuettaw pewe abu fubac tewbus tizuce mizpifol. Voh bu onila pofeh hezdaate ucanoc lul wus vef uhoup pagooho setevu jat kejedabev tegaku emujim fowhos dabibi. Taporejah iha olo aho ujouco gime redpo reh vusle pupaug dedenhaz veh uledi ciz dewpugho.",
+    "bio": "Eziiwicat mof vobkiso ci ukone guhav cegi onu uhideztil buho bewbahola eh mizdu eji intobgod fofikpel nemejuza. Col hidlu barul bi tegbu ope bera fomot icuni gih wo tok. Munu bakuace re bewdi loc wade niw uvuk wahavvor ziapeguv neliwha taorgo cilir fupa cesujka inu. Kifiko sevseloto jabar vuaktu hazma mozbu nowpof cuw razvi be udiavutu tiefaig werniwes mitgutram ko baeki hialmus tamni. No nuroluj owme jowjonem nu vivjija gib oc lu ges vediv vofvitki gegoffo meicuzuv hi middotani."
+  },
+  "apiKey": "0bc1e17469d5f70f39a52354d4b84f81d6111013d125a873ff37a87f70025793",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
