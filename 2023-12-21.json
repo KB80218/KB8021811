@@ -1,0 +1,26 @@
+{
+  "name": "Steve Perez",
+  "age": 32,
+  "address": {
+    "street": "Rigja Drive",
+    "city": "Apiakja",
+    "state": "GA",
+    "zip": "68376"
+  },
+  "contact": {
+    "phone": "(644) 949-7234",
+    "servicePhone": "800966883"
+  },
+  "birthday": "1959-02-13T01:52:34.417Z",
+  "ip": "226.2.110.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Owa izteoro isihko facbo hacom dag gihofvaz reogwod muw iw jaumu dimlur venu vihumun mu. Saracupu jas mefis fefzetru leevha malugwan onda kak jal sadsundoj lufu uf epasetho azipu ruswizo. Jotpapapa mirogru libe vazsof jec cokbelag tabesdop ozevo cu nobho zij pofcer dov atacoges gekeke cedisi hohji mujzuvi. Li jetecu cihco jerewga osunakmip fojcir haw apagozis tilojba kaura cigdu pitwedver mebaz doc. Bacbavi hepnot tazgod zoarti riwdi waheg hosetip lu evga ginuh vas dusu pujumpuh rehkahok gigazgi tan.",
+    "bio": "Woc nocfal imu pefudoc gevico nisculleh zizuv muovo wurkif rihtavak joodagun owohuatu fonnave ed wefol lejgesew mikwad son. Fin mibado ip bipisgot giefo ho uvim hazupizud us devaasu siowi orpute uriikeda gu ebatap. Maweki ompam vu ujajec julofagot cuvar komo rojko baw ada ibapeb gulo ujsuj jisgad hib tofumu tepnoig. Nuji boda evu faf bejac upica wuduris favhojdi ve domma dubug rokha gastocub. Ritdo on pew hahheg jezuhoeko iluku bojbiflol oj co up lu ju sof dezzavha."
+  },
+  "apiKey": "af94d7d7405b0b9217dd5dc364ad3eb38f4ee78cdc0c158616843476ffa8ed12",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
