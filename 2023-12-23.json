@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Curry",
+  "age": 64,
+  "address": {
+    "street": "Tepo Way",
+    "city": "Upsuko",
+    "state": "CA",
+    "zip": "95340"
+  },
+  "contact": {
+    "phone": "(262) 516-8853",
+    "servicePhone": "800893444"
+  },
+  "birthday": "1959-10-06T04:26:18.960Z",
+  "ip": "225.182.26.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuphe somze nezjud vu bo polek cas rahojbal nelfeg wenojgu giwecwoj omojate wuhjitem sujumzi uronaceko. Efezi nickem em lur sepbo ugucpi ewanot semva etake oka rogup bismad bufipba fufom sij. Gat me cusam nafatfa gud turinzil dedpobel avelo curi tipakoj rorno niculi biresguk ce tidozaf sejaitu he. Furisob apveksip dudamot ton ji vopasod orela gi luspognal di pijbo nal lu ej igiavoro. Wicugis odoju wujeh vujfesdeg pavkic gatbepaco zazeti kerolfe tedalguz eju od lokwulge jo la deghogte sa. Socej tijaavu zi fema zazli sir ahume vujvermov taragep wevowa gisi zogembav ora.",
+    "bio": "Wo lo te pas liej putocdo mo opinovvac kika ze fesizora jazigej. Irgep rag ziohi woluw sowpime fos kiz ajoetajov vifijipe ni dolko vavcevon gedluw vis murlo owutanud pag. Tak relbi ew jen pijlameh gedzekbu zonretnup bugne pilu zode ovbuwzic hibaj hewcumnim sawva sa toduz ejocili ajep."
+  },
+  "apiKey": "13c6a9fb4c2e8e87d07bb7915d17d8574d93b09fa32e248b4208d2f315a55a96",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
