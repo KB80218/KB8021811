@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Soto",
+  "age": 20,
+  "address": {
+    "street": "Paob Square",
+    "city": "Dusunca",
+    "state": "NC",
+    "zip": "51958"
+  },
+  "contact": {
+    "phone": "(946) 766-9119",
+    "servicePhone": "800814687"
+  },
+  "birthday": "1966-10-14T21:42:34.426Z",
+  "ip": "170.45.126.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne ictu ajlakfes uz elmuv zogtonnow cusibda muzjutip seze upuuruidi jiesi duwsi ocucohko. Gabmef zivain gas wan dewahoge vot vi cinjikvo fiduco wov fa ma. Perfad ziange lanowi ropofo mara li wot caafpiv am muhvawzen pasibho vi tef nedocwo ijrimet ci. Os cignin okiziru bepa doc mivinazu pug vehazrok kotahzel kopunajo uvatudor iwi wusre apota liademe idkipzu kukpikwez julij. Vobunul cela gi dag rudges ukolva uvuh mewemaow ros pivces ockadli miem lul. Hah hif vamibi uroraw ovkolaz jihsiazi iwu duotuma kout mutijde woral fu igi jinat.",
+    "bio": "Rijpa im rumpan fiuj kived rujufetu ata zo ralacru mikzeh meujeabe ha wueb kikci. Fes epu pobor sujuk tekfo geeme bo kab eke pilboj ezmiji fefaz ag ufoeztu bohow pav. Ife kihec kenepo wut nedipfi rimog jisihsi gew picfeja vusod favbus daf. Adobumat enedu jadsusra vigsemdu livebkal mobil jecof kuz ezuriktoc ted pihu om."
+  },
+  "apiKey": "a07af9ce36276d1835c42631181eeb778bc3cd0a7601bbee3926425dc31d7553",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
