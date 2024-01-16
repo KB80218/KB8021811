@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Reeves",
+  "age": 42,
+  "address": {
+    "street": "Piul Highway",
+    "city": "Sipicjep",
+    "state": "ME",
+    "zip": "04824"
+  },
+  "contact": {
+    "phone": "(317) 258-9674",
+    "servicePhone": "800244534"
+  },
+  "birthday": "1963-08-14T04:21:13.029Z",
+  "ip": "36.146.9.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Hutluzpus oviej zecaceb gudnul cij jolrefo lepo imhuuca cej riwac uw ic er pu roz naddi. Cedolu hoh zeta behrew kolimce cobuno daovuefu nepnajlel peza sakamah kiabiuv zacjiol zefbifer. Mihob guvve gojha sugarfom nikge cadkur ru am biru had up ol dikulfi ber pucta iviivuavi. Ekeperis haesvo hi noavo ig julkar jubsighoh ecgawju arami domgaak ju nuj bitalu ogo. Culdab nadhirgu zosivi fuv og imu uwapi himufdin ku wu fasrog utamuc bameup le haica hok hig nu. Zirajrob gud ludno ed deh vak go vamelul ivut vawco zutos hecuz certutraz ufawa jaf.",
+    "bio": "Tolo vokgica dalo pannus wuhijid ado zebraf wuigi vaaj cujge vocukef luh pojrej ocociug buvleshi fel wajjuvot tuvar. Jiisi pu fa pusu ne sezilup ib bu po ul lesakcu zesbep cusa ehuti vitific. Ivaka tez sisivoho ka gefoc fog osozo sef penson besnu ezegut agji wuzgik kukogej."
+  },
+  "apiKey": "60584efb1ea4b1c3f9f4a9d1a00a094845e10b14fd1b68314bae966978fd9550",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
