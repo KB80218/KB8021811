@@ -1,0 +1,26 @@
+{
+  "name": "Maria Casey",
+  "age": 52,
+  "address": {
+    "street": "Ahuba Junction",
+    "city": "Masiwafe",
+    "state": "NH",
+    "zip": "01467"
+  },
+  "contact": {
+    "phone": "(451) 712-6006",
+    "servicePhone": "800636145"
+  },
+  "birthday": "2005-12-27T15:16:11.777Z",
+  "ip": "240.255.234.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Abu cizhunzac zob ecuze der fa munpe cekuj zowopow pamuno kijenka zirojo ulifesa. Ubfak cisfeb pilede lil ab ugejibub tetdali aje emu ucowilvo col kuc falanobo. Tohzeco jerzo rocis goocago web izevubci uza saldad isugovjij riacber do tatido aduzof mubigfe ecefowjo ifu howob tu.",
+    "bio": "Ta likocdo cu mohim lezoj ni wecune emve geb bepdour vorvuvu luopzu omufar vilfogfa. Godturo ucnawa micce dare wargupe dojtumogu gu nin abzudru bazpab gus dun eh cejhu puphiz ucra osama. Uraod efasre ebgon jut zi pepe pitca ve nocra diehoki pug pelgiti mi sedakaw umrejkaw avu rivke. Nozsov didfiedi ta dic gon notca wegmone mac todof sad sigtaow sal. Luud dubmatle dan gozmoroze hokomis piz vichi weg vodhit ratook ajmom lobpuj komeika hopufmi za fuuje muonote. Duk kolut fi nekub hihmozim beme nowdis bi tavcehud api ijevu owunic sazzusam va dilosa nanucvap ovkew."
+  },
+  "apiKey": "c36e46bfb2205f12c8db5cf4edbd29f3e711044b34ee13e921b8a1b58f648f03",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
