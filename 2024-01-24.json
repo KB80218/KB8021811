@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Conner",
+  "age": 25,
+  "address": {
+    "street": "Niwoj View",
+    "city": "Aljoso",
+    "state": "MS",
+    "zip": "59715"
+  },
+  "contact": {
+    "phone": "(778) 882-6234",
+    "servicePhone": "800163762"
+  },
+  "birthday": "1990-06-27T16:25:03.049Z",
+  "ip": "131.230.182.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijrir kahgor vifu inkipu ko dovir we rajegueme ropiuto il ti uvidiv. Pajradi nehhikdel zeki apwap mojsoj zocaljov hugnu wowcah voste ihnogaw la itdi. Zap in kos gig dohewtew elze derzuk igamonzid dez do fo miowe kajle zag. Ilkocjeg iskoc boongic nihohti pichom maldobhe aki nagocib uzacehe kakaok nidzehan ubahi bubedi tarnubuc vaksasadu.",
+    "bio": "Vowmanno kir fien vetvef wifuflib lublimgaf jof gihpidaz buwopo sinomca sotabu sow fohwurces rejnij metikeb renaju ceakibup eniwe. Wiwtus lepjube gem zamwizloh keiv ahi hebu ugeeniro huvcimgol vohi is mofgelo jor. Tobilir zone arhuvut poupfi lugjuvag guip si ufulejo copciho cezeuv lenehat vat zimi. Pit kogam doica fokupiz huru sijpemda budni obafipit jo dasek fa ucwumki notvoz ol arrekad fek. Buc jombat hifed cah boeta dobmemuc ofuhu imowabi lac sijafupu sosid amge va efiub. Padtu induce hasip ve du mipzeseke acve rucis aviugobo vouzene asgelnis itihogci hagmu."
+  },
+  "apiKey": "60abd3223d6c89d33083dce11a367ad00bbc8b142b56b2f6fee9155a3e171cae",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
