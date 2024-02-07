@@ -1,0 +1,26 @@
+{
+  "name": "Susan Allen",
+  "age": 22,
+  "address": {
+    "street": "Egod Highway",
+    "city": "Ohunji",
+    "state": "IN",
+    "zip": "91448"
+  },
+  "contact": {
+    "phone": "(267) 855-7010",
+    "servicePhone": "800755532"
+  },
+  "birthday": "1968-09-13T02:59:50.374Z",
+  "ip": "210.180.9.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Go noketer cohasna ga to ovisefsag hi kuvhev eguzabhu kawapef epta huw. Ab ciew sice osevucab ma aj nu hahhavmog jimlahfog bitgoglad intih oftin evna. Avacga waunaevi siif num doz si ce nimok figvepho al wor vusvutkar omatir ihepo uzo lelu sop okazimdu. Ir vimsiw lalzib nilaref edelenhu goczekbi ben gun vazejam isotokac wufer tu ijpire semu sic kakzuge mak.",
+    "bio": "Kivgu vahej usda imiga wuit onfug ja filigjib nubnuw evlip edaulepar imje lah kercebid cafja fac fubguru nin. Geffuz rusgale tos ne wim pacino nis mohbipdo fowdalu puv fucib joed li madi. Giwu lewakbe ude fu nobe jum bezgizot wicud vatod ges kibet bitto apoluj fe bu vafderoj. Puti vegu famwa dog pezepril ru ad ige peberam miokko ho faprisir. Emupulew na bej bezhane vebcufci vahcigvo bunzi normunren taje imeforus owaruobi owi tosuro zeb. Pewusu nal pewujmos fifi ti acbe pij olkub vok vulid ekgu petug ve febefot ko po. Uvi bije afbo ag sejjo ev ba kupiw geuvu mo go sapiwma wamvowpu."
+  },
+  "apiKey": "36b2101750cb34240dbdb7b803f20706dce9d59cd6a08d3c8e7b3fc3f7902dfd",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
