@@ -1,0 +1,26 @@
+{
+  "name": "Alan Gill",
+  "age": 41,
+  "address": {
+    "street": "Kapi Parkway",
+    "city": "Sahpevada",
+    "state": "AL",
+    "zip": "92012"
+  },
+  "contact": {
+    "phone": "(344) 266-6261",
+    "servicePhone": "800113175"
+  },
+  "birthday": "1960-11-12T05:25:29.355Z",
+  "ip": "46.11.106.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja ni nelsiw de akumele polgenu bo zer bacepon ob catit novanli tocnop ho feh ubi leogu ohemabcuj. Pul ifci supliw ro uf vak pud nado dol finzabus peleso eh jufohuzil. Fuavzoz ru sasa ifvat jivsapdo pablepa icosetob fafili ef goruku luvjotmaz venev uloku ana.",
+    "bio": "Opuetigen hihomaaku ala ta ono opaged gow gi codelzil on ejfu huj hetivak leinan jenweova rovlovga cewicsib. Sov nij su bivef ivemihzuh umwowdo ci hucumwi lebugu eg dotrehad pozul hothuaw. Sub paana poob dewuv fiami kaw hoew labosip odemoni pihik famalak afauj ke. Ojtuid luwuw necov dep neladme tuclohru ubmas nora fisdepul leaweow vo dawesoz marore foad nikpo sib."
+  },
+  "apiKey": "8654af4b874a057ea25b1526d8a4d345fa608a42b2f7c164bc83e03570498a32",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
