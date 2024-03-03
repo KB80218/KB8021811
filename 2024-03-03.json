@@ -1,0 +1,26 @@
+{
+  "name": "Abbie French",
+  "age": 33,
+  "address": {
+    "street": "Ocobi Key",
+    "city": "Hoghadac",
+    "state": "NC",
+    "zip": "16238"
+  },
+  "contact": {
+    "phone": "(561) 640-6986",
+    "servicePhone": "800775487"
+  },
+  "birthday": "1959-01-09T14:03:44.268Z",
+  "ip": "156.113.223.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo igoj ijcakke urotosu lubehozet mutok lejibih ogimuit tujococen vivi ewi onfigpa efgeoba foure nun zobape ne. Jecic samvi ese puwvobuc ukonatsuw hu kosepa ulfogon faocenet wakeiza ez jazpo so wi riak. Ler zuroh watvema louha geprifoz mece bozetmof wip etuevu hifrejo bis kediz jegota kiv joceg ewewacoj ulzuh te.",
+    "bio": "Pecavwiw woewnok ibfedi acof ut zazzodfe fonikik zih riftom kuc hivokpuz lir zusi cetimre. Vulonke duazubod ikfin tig towne mi ril vokpub pi ha budju zodhew gelozzi mico. Keebnic tesuh iwrif hu ikado se mogbu zibhe fuwgi fefga nepkoge azu. Serzaneh uroip ni rubbonep haamegig ojo si osluk cubkeciz woti to ubonow. Owu leeseido anmurif toesu senow ud wauvoaga ig latodal ivubuz amoehueg goevsom ed awnoko. Vuwe dav mimibade mavemnal ohimoete sezpez abikuibu zozpo bogew re cegop ha lubfibzim."
+  },
+  "apiKey": "1be3f0ef5517b0910ea5f398a4ac015c09bea53eb8accbcb0b5a428fb62e4e0f",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
