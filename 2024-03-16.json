@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Higgins",
+  "age": 42,
+  "address": {
+    "street": "Fage Pass",
+    "city": "Icmokpo",
+    "state": "TX",
+    "zip": "63407"
+  },
+  "contact": {
+    "phone": "(403) 834-5142",
+    "servicePhone": "800229211"
+  },
+  "birthday": "1971-07-31T06:25:15.751Z",
+  "ip": "120.248.240.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Minewi afefu hem undo fo ufu oc cul numwitic cin wuukurol catit romfow ve wagvelu tuvi zo wibaco. Rula sacnouva pawuum va rijaj tibemo wacfetace cofuaba ki evefare mediv ego ta wuwotul kurwa sidguuli nik. Emezukpus fet rovej wo ip lijo botsehto ma kamkemta giko vi kili. Jaciw hemwagmac buc ecu pez geg ze icocuboh cevle cetdi bulvud rashezra cidpeoj ema adirelbob kofu pumokna izi. Tuuwadet zikzo eszosuro dit buju faevipub dotorziv uzoced pawirca imuciz pu hu ekwa cimrih fohut.",
+    "bio": "Maclam afooposa werik rubip resevul rimum nivte zijbutij febigu pa red kun bema. Vo terijjuj kes wa ba vubij gaaperak pod ne unza kiwpegra kif abuevetes ez. Lim mambezcil rek hunujuze cusmuku kuhi gad lukrijah bobnemi ilematfuz ofbepiv eg fekut kosihle itbed hi. Ujidubla laned bubivjuj lotnig po gu tegan fogpumto en juajufa uzuhaj uvujidga sar."
+  },
+  "apiKey": "f8be41c568afecf943c283376fcfaae90e0452bc245b472beccb8d362a9c61e4",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
