@@ -1,0 +1,26 @@
+{
+  "name": "Evan Hubbard",
+  "age": 24,
+  "address": {
+    "street": "Oraira Square",
+    "city": "Cajadhuh",
+    "state": "CO",
+    "zip": "67010"
+  },
+  "contact": {
+    "phone": "(911) 626-2469",
+    "servicePhone": "800676236"
+  },
+  "birthday": "2006-06-18T16:45:08.728Z",
+  "ip": "27.189.42.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Tana puvwanfeb ahbuped zirna ilemadnu ecbad zegkus weacu lu ewe ofmiw kamizra gepi fi. Ko tiji lompugfu dah hobmi ruak ge vulmawze ra zig vovzoam epufa gan kasosodiw. Ra febkikcih tosfisid tavsoh usa ru izu utafi diswejav fam pibhowmi fu orsidje vepkato vu.",
+    "bio": "Kodja seksoeji ilsovoh tezrat pini bobfuw metavi wakwuke gonluv vif fuvevon wo mawa. Lidnat de buuw zekjaphi med gedic udtu izaman wiho lab salso ac ittow toncew dihgaod. Ap donfoz siozirer rafiz hokfeg ri at ham gabzuzoz rub zuvito oza geg rel dirib gazu hatulfa. Zempedpuc paruwi bu hinil ciwobibe cazfa sulobonaf fi vahas unu isekipdeb ab bared bonuul."
+  },
+  "apiKey": "d10139379693663dbfd47db6a1c4d4f649f6c2af666d13fc1eb4710173b066d9",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
