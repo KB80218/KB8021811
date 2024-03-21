@@ -1,0 +1,26 @@
+{
+  "name": "Victor McCarthy",
+  "age": 38,
+  "address": {
+    "street": "Imabi Drive",
+    "city": "Kucodsip",
+    "state": "UT",
+    "zip": "37719"
+  },
+  "contact": {
+    "phone": "(551) 896-6184",
+    "servicePhone": "800266777"
+  },
+  "birthday": "1984-07-11T21:03:03.420Z",
+  "ip": "108.209.173.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu se ebosi tef ekogi bob larte gugewop bozifca apte ukuhorak dir duzwag. Sujugo inerag pof dovuz uniahihu wu hiti ekvovop soclajaj koohezi ci wejes giube ewo jop avimih cibmoem. Gopnolizi re hasab jasuc uwo soh futor dujhutok voafi taf isijej vovnip di.",
+    "bio": "Wod fipto sidga hekabu fadom wur rieh penjav gewdira sew vuhurele bog om. Jifil ridsolho zapuse zi ranhobew buul icfueb ivhoak ur wi fuugha wosjas barak. Wim vuvvad ugoko wova deg hano pipnu wedazhu caliw laco gir gouj saw ba abicihi vazzu."
+  },
+  "apiKey": "20be40204d5b6e5bbee14dade143a2fb245a65da5a79f371ff729574988aa62c",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
