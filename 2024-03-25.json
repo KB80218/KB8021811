@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Huff",
+  "age": 64,
+  "address": {
+    "street": "Dihbuj Park",
+    "city": "Ewafogu",
+    "state": "UT",
+    "zip": "41883"
+  },
+  "contact": {
+    "phone": "(214) 454-5796",
+    "servicePhone": "800344235"
+  },
+  "birthday": "1999-12-26T03:13:16.058Z",
+  "ip": "65.201.51.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejmokzaw jolhug pihel cot va gaev ruwisalo mani muw jum zam om hajo ofazegi darcog. Wavacuro johpe wej ginsaivo vaj ju larrem hopzo gom hacsep ur butibi avokemiz da hucevo sovsope viv gokuwce. Epefut zu cob gezfeci biisug to vudonbuf cinindo ki urbab asovead sir wiru cim opaulab. Kaz wacnugruk ga saz oh vutuuri kehgejuk nife dif ave mumju suvfu bozi huiwi.",
+    "bio": "Zoeduso pu licbafjum mu gorzu sega lesawo ribagez pumu ra nan eluje ivafufac kirbuvwu tekij cabir. Pabe vaes inebiz hud locsog vejugde jegez nerawuh kes tev ag hozam daba battanuju dim nakgon. Emerupfet godri jiv tavifog pec mucjam cisoghel mow adeogu cozej gefata vaddot kinkidla gatuvni. Luc purevaz mirrow kuknu kozu joc poh cu heobigi ogceku omivo jolja gacosujo avefa pihup odifu idwe nal. Awacecjop vuv rajosci safim iha gut ginaoh tuhmuj wig dagle cen le ova koodiw lozenna zolvo hugep."
+  },
+  "apiKey": "75b7a4e06672b477b1e720bdcba3067b6413a12631bc4cc35b4830a9590d7ede",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
